@@ -44,7 +44,7 @@ Then open http://127.0.0.1:5000 in your browser.
 ### 1) Navigate to the project folder
 - Windows PowerShell:
   ```powershell
-  cd "C:\\Users\\s.dabydin\\Documents\\warp_project\\banana-editor\\football-dashboard"
+  cd "C:\\Users\\USER\\football-dashboard"
   ```
 - macOS/Linux terminal:
   ```bash
@@ -155,3 +155,4 @@ Other optional settings (via .env or environment):
 
 ## License
 MIT
+
