@@ -30,7 +30,7 @@ Data source: football-data.org (v4 API).
 ### 1) Navigate to the project folder
    - **Windows PowerShell**:
      ```powershell
-     cd "C:\Users\s.dabydin\Documents\warp_project\banana-editor\football-dashboard"
+     
      ```
    - **macOS/Linux terminal**:
      ```bash
@@ -181,3 +181,4 @@ Do not commit real API keys. Always use environment variables for API keys in pr
 
 ## License
 MIT
+
